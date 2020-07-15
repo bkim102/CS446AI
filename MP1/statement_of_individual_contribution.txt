@@ -1,0 +1,6 @@
+Statement of Individual Contribution
+
+Sam: implementing BFS, DFS, methods to refine solution path for BFS-DFS-Greedy, map-density heuristic, overall code structure, lab report.
+Bum Jun: implementing A* search, modifying for multiple dots, methods of producing the final shortest path and other statistics, lab report. 
+
+Overall, we think we worked well as a group and we both spent an equal amount of effort and time into this assignment. 
